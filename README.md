@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshvarma-27/DSA_Map/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [1837-sum-of-digits-in-base-k](https://github.com/harshvarma-27/DSA_Map/tree/master/1837-sum-of-digits-in-base-k) |
 <!---LeetCode Topics End-->
