@@ -69,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshvarma-27/DSA_Map/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/harshvarma-27/DSA_Map/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/harshvarma-27/DSA_Map/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
