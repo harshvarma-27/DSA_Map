@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshvarma-27/DSA_Map/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/harshvarma-27/DSA_Map/tree/master/0035-search-insert-position) |
+| [0057-insert-interval](https://github.com/harshvarma-27/DSA_Map/tree/master/0057-insert-interval) |
 | [0238-product-of-array-except-self](https://github.com/harshvarma-27/DSA_Map/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/harshvarma-27/DSA_Map/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
