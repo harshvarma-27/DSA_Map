@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/harshvarma-27/DSA_Map/tree/master/0292-nim-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/harshvarma-27/DSA_Map/tree/master/1837-sum-of-digits-in-base-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshvarma-27/DSA_Map/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
@@ -155,4 +156,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshvarma-27/DSA_Map/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/harshvarma-27/DSA_Map/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/harshvarma-27/DSA_Map/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/harshvarma-27/DSA_Map/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/harshvarma-27/DSA_Map/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/harshvarma-27/DSA_Map/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
