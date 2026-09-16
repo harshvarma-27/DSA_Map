@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshvarma-27/DSA_Map/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/harshvarma-27/DSA_Map/tree/master/0035-search-insert-position) |
 | [0057-insert-interval](https://github.com/harshvarma-27/DSA_Map/tree/master/0057-insert-interval) |
+| [0169-majority-element](https://github.com/harshvarma-27/DSA_Map/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/harshvarma-27/DSA_Map/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/harshvarma-27/DSA_Map/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshvarma-27/DSA_Map/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/harshvarma-27/DSA_Map/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/harshvarma-27/DSA_Map/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/harshvarma-27/DSA_Map/tree/master/0347-top-k-frequent-elements) |
@@ -24,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshvarma-27/DSA_Map/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/harshvarma-27/DSA_Map/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/harshvarma-27/DSA_Map/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshvarma-27/DSA_Map/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/harshvarma-27/DSA_Map/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -41,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshvarma-27/DSA_Map/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/harshvarma-27/DSA_Map/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -146,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/harshvarma-27/DSA_Map/tree/master/0543-diameter-of-binary-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harshvarma-27/DSA_Map/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
