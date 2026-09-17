@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/harshvarma-27/DSA_Map/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/harshvarma-27/DSA_Map/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshvarma-27/DSA_Map/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/harshvarma-27/DSA_Map/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/harshvarma-27/DSA_Map/tree/master/0292-nim-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/harshvarma-27/DSA_Map/tree/master/1837-sum-of-digits-in-base-k) |
@@ -192,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harshvarma-27/DSA_Map/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/harshvarma-27/DSA_Map/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/harshvarma-27/DSA_Map/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
