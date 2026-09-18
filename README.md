@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/harshvarma-27/DSA_Map/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/harshvarma-27/DSA_Map/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshvarma-27/DSA_Map/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/harshvarma-27/DSA_Map/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/harshvarma-27/DSA_Map/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/harshvarma-27/DSA_Map/tree/master/0347-top-k-frequent-elements) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harshvarma-27/DSA_Map/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
