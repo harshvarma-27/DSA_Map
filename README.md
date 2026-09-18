@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/harshvarma-27/DSA_Map/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/harshvarma-27/DSA_Map/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/harshvarma-27/DSA_Map/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harshvarma-27/DSA_Map/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/harshvarma-27/DSA_Map/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/harshvarma-27/DSA_Map/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harshvarma-27/DSA_Map/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/harshvarma-27/DSA_Map/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/harshvarma-27/DSA_Map/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/harshvarma-27/DSA_Map/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/harshvarma-27/DSA_Map/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/harshvarma-27/DSA_Map/tree/master/0292-nim-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/harshvarma-27/DSA_Map/tree/master/1837-sum-of-digits-in-base-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshvarma-27/DSA_Map/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/harshvarma-27/DSA_Map/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -205,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/harshvarma-27/DSA_Map/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
