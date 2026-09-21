@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/harshvarma-27/DSA_Map/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harshvarma-27/DSA_Map/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshvarma-27/DSA_Map/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/harshvarma-27/DSA_Map/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harshvarma-27/DSA_Map/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/harshvarma-27/DSA_Map/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/harshvarma-27/DSA_Map/tree/master/0389-find-the-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshvarma-27/DSA_Map/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/harshvarma-27/DSA_Map/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harshvarma-27/DSA_Map/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshvarma-27/DSA_Map/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/harshvarma-27/DSA_Map/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/harshvarma-27/DSA_Map/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/harshvarma-27/DSA_Map/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
