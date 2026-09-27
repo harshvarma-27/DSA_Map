@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/harshvarma-27/DSA_Map/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/harshvarma-27/DSA_Map/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/harshvarma-27/DSA_Map/tree/master/0620-not-boring-movies) |
 | [1683-invalid-tweets](https://github.com/harshvarma-27/DSA_Map/tree/master/1683-invalid-tweets) |
 ## Greedy
 |  |
