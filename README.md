@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshvarma-27/DSA_Map/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/harshvarma-27/DSA_Map/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/harshvarma-27/DSA_Map/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/harshvarma-27/DSA_Map/tree/master/0205-isomorphic-strings) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshvarma-27/DSA_Map/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshvarma-27/DSA_Map/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshvarma-27/DSA_Map/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshvarma-27/DSA_Map/tree/master/0145-binary-tree-postorder-traversal) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshvarma-27/DSA_Map/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshvarma-27/DSA_Map/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
