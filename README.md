@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshvarma-27/DSA_Map/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/harshvarma-27/DSA_Map/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/harshvarma-27/DSA_Map/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/harshvarma-27/DSA_Map/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/harshvarma-27/DSA_Map/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshvarma-27/DSA_Map/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshvarma-27/DSA_Map/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/harshvarma-27/DSA_Map/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/harshvarma-27/DSA_Map/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/harshvarma-27/DSA_Map/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0202-happy-number) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshvarma-27/DSA_Map/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/harshvarma-27/DSA_Map/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshvarma-27/DSA_Map/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshvarma-27/DSA_Map/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshvarma-27/DSA_Map/tree/master/0145-binary-tree-postorder-traversal) |
@@ -265,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/harshvarma-27/DSA_Map/tree/master/0401-binary-watch) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/harshvarma-27/DSA_Map/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/harshvarma-27/DSA_Map/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
