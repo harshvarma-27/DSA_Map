@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/harshvarma-27/DSA_Map/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/harshvarma-27/DSA_Map/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/harshvarma-27/DSA_Map/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/harshvarma-27/DSA_Map/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/harshvarma-27/DSA_Map/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/harshvarma-27/DSA_Map/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshvarma-27/DSA_Map/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/harshvarma-27/DSA_Map/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/harshvarma-27/DSA_Map/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/harshvarma-27/DSA_Map/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/harshvarma-27/DSA_Map/tree/master/0242-valid-anagram) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/harshvarma-27/DSA_Map/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/harshvarma-27/DSA_Map/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
