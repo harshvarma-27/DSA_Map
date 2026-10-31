@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshvarma-27/DSA_Map/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshvarma-27/DSA_Map/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/harshvarma-27/DSA_Map/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/harshvarma-27/DSA_Map/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/harshvarma-27/DSA_Map/tree/master/0057-insert-interval) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshvarma-27/DSA_Map/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshvarma-27/DSA_Map/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/harshvarma-27/DSA_Map/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/harshvarma-27/DSA_Map/tree/master/0347-top-k-frequent-elements) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshvarma-27/DSA_Map/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/harshvarma-27/DSA_Map/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/harshvarma-27/DSA_Map/tree/master/0349-intersection-of-two-arrays) |
