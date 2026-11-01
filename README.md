@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/harshvarma-27/DSA_Map/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/harshvarma-27/DSA_Map/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/harshvarma-27/DSA_Map/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/harshvarma-27/DSA_Map/tree/master/0292-nim-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/harshvarma-27/DSA_Map/tree/master/1837-sum-of-digits-in-base-k) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harshvarma-27/DSA_Map/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/harshvarma-27/DSA_Map/tree/master/0258-add-digits) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshvarma-27/DSA_Map/tree/master/0042-trapping-rain-water) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/harshvarma-27/DSA_Map/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
