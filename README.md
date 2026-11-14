@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshvarma-27/DSA_Map/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/harshvarma-27/DSA_Map/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/harshvarma-27/DSA_Map/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harshvarma-27/DSA_Map/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/harshvarma-27/DSA_Map/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/harshvarma-27/DSA_Map/tree/master/0205-isomorphic-strings) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshvarma-27/DSA_Map/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/harshvarma-27/DSA_Map/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harshvarma-27/DSA_Map/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/harshvarma-27/DSA_Map/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/harshvarma-27/DSA_Map/tree/master/0202-happy-number) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/harshvarma-27/DSA_Map/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harshvarma-27/DSA_Map/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/harshvarma-27/DSA_Map/tree/master/0258-add-digits) |
 ## Binary Search Tree
